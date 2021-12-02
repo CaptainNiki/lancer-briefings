@@ -150,7 +150,7 @@ export default {
         "headerTitle": "MSV",
         "headerSubtitle": "Hypatia",
         "subheaderTitle": "Military Personnel Vessel",
-        "subheaderSubtitle": "Bini Liberation Initiative",
+        "subheaderSubtitle": "DLI",
       },
       "options":{
         "eventsMarkdownPerMission": true
