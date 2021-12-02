@@ -144,7 +144,7 @@ export default {
       "header": {
         "planet": "Enroute to Scirocco V",
         "year": "5016u",
-        "system": "Bini",
+        "system": "Daedalus",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "MSV",
