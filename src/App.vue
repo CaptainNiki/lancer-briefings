@@ -95,26 +95,26 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Protect-The-Base",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Peacock",
+          "alias": "Daniel Fabian",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "The Showstopper"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "Coelus",
+          "alias": "Anri",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Blackstar"
         },
         {
           "callsign": "Starboard",
@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
+        "planet": "Enroute to Scirocco V",
+        "year": "5016u",
+        "system": "Bini",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "MSV",
+        "headerSubtitle": "Hypatia",
+        "subheaderTitle": "Military Personnel Vessel",
+        "subheaderSubtitle": "Bini Liberation Initiative",
       },
       "options":{
         "eventsMarkdownPerMission": true
