@@ -121,15 +121,15 @@ export default {
           "alias": "Bravo Nevada",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "What Comes Natural"
+          "frame": "Sagarmatha",
+          "mech": "Antipathy"
         },
         {
           "callsign": "Cropduster",
           "alias": "Del Easton",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
-          "frame": "Everest",
+          "frame": "Sagarmatha",
           "mech": "Big Hoss"
         },
         {
