@@ -1,0 +1,1 @@
+The son of a minor noble, Jack Bridges received trainer as a Lancer from an early age. On request from his father, he set out to fight and further enhance his skills as a mech pilot. However, unbeknownst to him, his father secretly wishes he'd perish in a freak accident while on duty.
