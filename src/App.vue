@@ -100,7 +100,7 @@ export default {
         },
         {
           "slug": "002",
-          "name": "Motherland Under Attack".
+          "name": "Motherland Under Attack",
           "status": "start"
         },
       ],
