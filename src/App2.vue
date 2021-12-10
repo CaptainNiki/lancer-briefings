@@ -98,11 +98,6 @@ export default {
           "name": "Protect-The-Base",
           "status": "start"
         },
-      ],
-      "mission_slug": "002",
-      "current_md": "",
-      "events": "",
-      "missions": [
         {
           "slug": "002",
           "name": "Motherland Under Attack",
