@@ -1,5 +1,1 @@
-He do be kinda sus.
-
-## Trivia
-
-* Is not a nerd like the rest of y'all
+Born into wealth, Damien had expectations thrust upon him from an early age. Carrying on the legacy of his father (and his father before him), he has taken the role of Fabien Fabrications' CEO, overseeing technological advancements in the AI field. Regarded as a philanthropist by his admirers and a show-off by his detractors. Accompanied by his own personal AI, Albert, which he created at the early age of 7 years old.
