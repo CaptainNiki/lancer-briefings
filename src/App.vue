@@ -87,12 +87,12 @@ export default {
   },
   data() {
     return {
-      "mission_slug": "???",
+      "mission_slug": "UNKNOWN",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "???",
+          "slug": "UNKNOWN",
           "name": "Escape",
           "status": "start"
         },
