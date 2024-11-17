@@ -87,12 +87,12 @@ export default {
   },
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "???",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
+          "slug": "???",
           "name": "Protect-The-Base",
           "status": "start"
         },
