@@ -93,62 +93,52 @@ export default {
       "missions": [
         {
           "slug": "???",
-          "name": "Protect-The-Base",
+          "name": "Escape",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Peacock",
-          "alias": "Daniel Fabian",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Raiden",
+          "alias": "Thunder",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///LCI-DEPLOYMENT///377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "The Showstopper"
+          "frame": "Sagarmatha",
+          "mech": "Also Raiden"
         },
         {
-          "callsign": "Coelus",
-          "alias": "Anri Easton",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Blackstar"
+          "callsign": "Pin",
+          "alias": "Tomas 'Tommy' Spark",
+          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///LCI-DEPLOYMENT///a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "corpro": "HORUS",
+          "frame": "Goblin",
+          "mech": "STEEL-BOY"
         },
         {
           "callsign": "Assassin",
           "alias": "Bravo Nevada",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///LCI-DEPLOYMENT///056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "Antipathy"
         },
         {
-          "callsign": "Cropduster",
-          "alias": "Del Easton",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Big Hoss"
-        },
-        {
-          "callsign": "Jackpot",
-          "alias": "Jack Bridges",
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Money Shot"
+          "callsign": "Baskhole",
+          "alias": "Ryan Bask",
+          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///LCI-DEPLOYMENT///6f572259-6946-41bf-931a-e0543709e892",
+          "corpro": "HORUS",
+          "frame": "Pegasus",
+          "mech": "Fucker"
         },
       ],
       "header": {
-        "planet": "Enroute to Scirocco V",
-        "year": "5016u",
-        "system": "Daedalus",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "MSV",
-        "headerSubtitle": "Hypatia",
-        "subheaderTitle": "Military Personnel Vessel",
-        "subheaderSubtitle": "DLI",
+        "planet": "[ERROR]: CORRUPTED DATA",
+        "year": "UNKNOWN",
+        "system": "HESPERIAN SYSTEM",
+        "headerTitle": "FRU",
+        "headerSubtitle": "Vertig",
+        "subheaderTitle": "First Respondence Unit",
+        "subheaderSubtitle": "LCI",
       },
       "options":{
         "eventsMarkdownPerMission": true
