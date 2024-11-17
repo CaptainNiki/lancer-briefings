@@ -128,7 +128,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///LCI-DEPLOYMENT///6f572259-6123-41bf-931a-akhsdb109e852",
           "corpro": "IPS-N",
           "frame": "Nelson",
-          "mech": "Blitzkrieg"
+          "mech": "Taranus"
         },
       ],
       "header": {
