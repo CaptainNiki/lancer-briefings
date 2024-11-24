@@ -94,7 +94,7 @@ export default {
         {
           "slug": "001",
           "name": "Escape Asteria-09",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
