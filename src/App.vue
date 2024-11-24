@@ -87,58 +87,58 @@ export default {
   },
   data() {
     return {
-      "mission_slug": "UNKNOWN",
-      "current_md": "",
+      "mission_slug": "001",
+      "current_md": "001",
       "events": "",
       "missions": [
         {
-          "slug": "UNKNOWN",
-          "name": "Escape",
+          "slug": "001",
+          "name": "Escape Asteria-09",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Raiden",
-          "alias": "Thunder",
+          "callsign": "Platoon",
+          "alias": "Ellie Doyle",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///LCI-DEPLOYMENT///377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Sagarmatha",
-          "mech": "STAR BREAKER"
+          "mech": "FACTORY"
         },
         {
-          "callsign": "Pin",
-          "alias": "Tomas 'Tommy' Spark",
+          "callsign": "Rook",
+          "alias": "Hachiko",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///LCI-DEPLOYMENT///a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "HORUS",
-          "frame": "Goblin",
-          "mech": "STEEL-BOY"
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "FLYING CASTLE"
         },
         {
-          "callsign": "Baskhole",
-          "alias": "Ryan Bask",
+          "callsign": "Chips",
+          "alias": "KF-7640",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///LCI-DEPLOYMENT///6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "HORUS",
-          "frame": "Pegasus",
-          "mech": "Fucker"
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "SEGWAY"
         },
         {
-          "callsign": "Angel",
-          "alias": "Engeliere Couture",
+          "callsign": "Winner",
+          "alias": "Wynne Wigstan",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///LCI-DEPLOYMENT///6f572259-6123-41bf-931a-akhsdb109e852",
-          "corpro": "IPS-N",
-          "frame": "Nelson",
-          "mech": "Taranus"
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "EXCELSIOR"
         },
       ],
       "header": {
-        "planet": "[ERROR]: CORRUPTED DATA",
-        "year": "UNKNOWN",
+        "planet": "ASTERIA-09",
+        "year": "503 CE",
         "system": "HESPERIAN SYSTEM",
-        "headerTitle": "FRU",
-        "headerSubtitle": "Vertig",
-        "subheaderTitle": "First Respondence Unit",
-        "subheaderSubtitle": "LCI",
+        "headerTitle": "ILU",
+        "headerSubtitle": "Flugel",
+        "subheaderTitle": "Independent Lancer Unit",
+        "subheaderSubtitle": "ILU",
       },
       "options":{
         "eventsMarkdownPerMission": true
