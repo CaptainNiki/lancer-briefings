@@ -137,11 +137,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "ASTERIA-09",
+        "planet": "EN ROUTE TO ASTERIA-09",
         "year": "503 CE",
         "system": "HESPERIAN SYSTEM",
         "headerTitle": "ILU",
-        "headerSubtitle": "Flugel",
+        "headerSubtitle": "NAUTILUS",
         "subheaderTitle": "Independent Lancer Unit",
         "subheaderSubtitle": "ILU",
       },
