@@ -87,14 +87,19 @@ export default {
   },
   data() {
     return {
-      "mission_slug": "001",
-      "current_md": "001",
+      "mission_slug": "002a",
+      "current_md": "002a",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "Escape Asteria-09",
           "status": "success"
+        },
+        {
+          "slug": "002a",
+          "name": "Traverse to Asteria-04",
+          "status": "start"
         },
       ],
       "pilots": [
