@@ -1,1 +1,1 @@
-No data found. Please update database.
+A dedicated union worker and workers rights activist hailing from Asteria-09, Ellie "Platoon" Doyle is the self-appointed operator of the crew, supporting her teammates in the field of battle with important information and various tech abilities with her frame, **Factory**. Hardened and with unrivaled moxie, she hopes to crush anti-worker sentiments in Asteria-09 and look cool in the process. Perhaps that will cure that headache she seems to be carrying around lately.
