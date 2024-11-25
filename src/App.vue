@@ -92,14 +92,14 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Escape Asteria-09",
-          "status": "success"
-        },
-        {
           "slug": "002a",
           "name": "Traverse to Asteria-04",
           "status": "start"
+        },
+        {
+          "slug": "001",
+          "name": "Escape Asteria-09",
+          "status": "success"
         },
       ],
       "pilots": [
