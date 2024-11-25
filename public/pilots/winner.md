@@ -1,1 +1,1 @@
-No data found. Please update database.
+His name is Wynne "Winner' Wigstan. Is there more to be said? A young pilot of unknown origins, piloting the duelist-style frame **Excelsior**. His hulking frame doesn't betray his habit of breaking through enemy lines, tearing down metal with his deadly CQB-oriented weapons, which has saved his companions one too many times from unwanted attention of enemy fire. Relaxed and starry-eyed, he brings a much needed sense of normalcy to his crew.
