@@ -137,7 +137,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "EN ROUTE TO ASTERIA-09",
+        "planet": "EN ROUTE TO ASTERIA-04",
         "year": "503 CE",
         "system": "HESPERIAN SYSTEM",
         "gate": "-",
