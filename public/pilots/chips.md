@@ -1,1 +1,1 @@
-No data found. Please update database.
+KF-7640, or as he (?) likes to call himself, Chips, is the Nautilus's resident sentient machine. Pilot of the heavy ordnance frame **Segway**, the rest of the crew depend on him to rain fire and brimstones on the enemy forces. Seems to be timid but has a very obvious breaking point when pinned down by the enemy. Founders have mercy on the people who manage to get him to that state.
