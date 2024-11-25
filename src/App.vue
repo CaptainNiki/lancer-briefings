@@ -140,6 +140,8 @@ export default {
         "planet": "EN ROUTE TO ASTERIA-09",
         "year": "503 CE",
         "system": "HESPERIAN SYSTEM",
+        "gate": "-",
+        "ring": "Beyond the Annamite-Line",
         "headerTitle": "ILU",
         "headerSubtitle": "NAUTILUS",
         "subheaderTitle": "Independent Lancer Unit",
