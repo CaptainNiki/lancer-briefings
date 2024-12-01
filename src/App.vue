@@ -90,12 +90,7 @@ export default {
       "mission_slug": "002a",
       "current_md": "002a",
       "events": "",
-      "missions": [        
-        {
-          "slug": "002b",
-          "name": "Eliminate the Jagiellons",
-          "status": "start"
-        },
+      "missions": [
         {
           "slug": "002a",
           "name": "Traverse to Asteria-04",
