@@ -93,7 +93,7 @@ export default {
       "missions": [
         {
           "slug": "002b",
-          "name": "Eradicate the Jagiellons",
+          "name": "Exterminate the Jagiellons",
           "status": "start"
         },
         {
