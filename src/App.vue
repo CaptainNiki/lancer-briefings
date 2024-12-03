@@ -94,12 +94,12 @@ export default {
         {
           "slug": "003-2",
           "name": "Emergency Repairs",
-          "status": "success"
+          "status": "start"
         },
         {
           "slug": "003-1",
           "name": "Investigate Sabotage",
-          "status": "success"
+          "status": "start"
         },
         {
           "slug": "002b",
