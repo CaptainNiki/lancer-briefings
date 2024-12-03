@@ -92,9 +92,19 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "003-2",
+          "name": "Emergency Repairs",
+          "status": "success"
+        },
+        {
+          "slug": "003-1",
+          "name": "Investigate Sabotage",
+          "status": "success"
+        },
+        {
           "slug": "002b",
           "name": "Exterminate the Jagiellons",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "002a",
