@@ -157,10 +157,10 @@ export default {
         "system": "HESPERIAN SYSTEM",
         "gate": "-",
         "ring": "Beyond the Annamite-Line",
-        "headerTitle": "ILU",
+        "headerTitle": "RLC",
         "headerSubtitle": "NAUTILUS",
-        "subheaderTitle": "Independent Lancer Unit",
-        "subheaderSubtitle": "ILU",
+        "subheaderTitle": "Royal Lancer Corporation",
+        "subheaderSubtitle": "RLC",
       },
       "options":{
         "eventsMarkdownPerMission": true
