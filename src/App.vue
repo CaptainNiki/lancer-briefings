@@ -108,7 +108,7 @@ export default {
         },
         {
           "slug": "002a",
-          "name": "Traverse to Asteria-04",
+          "name": "Traverse to Asteria-03",
           "status": "success"
         },
         {
