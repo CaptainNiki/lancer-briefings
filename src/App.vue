@@ -99,7 +99,7 @@ export default {
         {
           "slug": "003-1",
           "name": "Investigate Sabotage",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "002b",
