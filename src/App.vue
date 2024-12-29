@@ -152,7 +152,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "ASTERIA-04",
+        "planet": "ASTERIA-05",
         "year": "503 CE",
         "system": "HESPERIAN SYSTEM",
         "gate": "-",
