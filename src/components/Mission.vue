@@ -30,7 +30,7 @@ export default {
 			return `/icons/mission-${this.mission.status}.svg`
 		},
 		missionStatus() {
-			if (this.mission.status === "available") return "Available"
+			if (this.mission.status === "available") return "Currently\nAvailable"
 			if (this.mission.status === "start") return "Current\nBriefing"
 			if (this.mission.status === "in-progress") return "In\nProgress"
 			if (this.mission.status === "partial-success") return "Partial\nSuccess"
