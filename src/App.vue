@@ -93,7 +93,8 @@ export default {
       "missions": [
         {
           "slug": "004",
-          "name": "Crucible Exclusion\nZone Reconnaissance",
+          "name": <span style="white-space: pre-line">Crucible Exclusion
+            Zone Reconaissance</span>,
           "status": "available"
         },
         {
