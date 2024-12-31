@@ -21,6 +21,8 @@ $location-separator: rgba(255, 255, 255, 0.24);
 $text-mission-title: rgba(255, 255, 255, 0.67);
 $text-mission-status: rgba(255, 255, 255, 0.87);
 $mission-start: rgba(109, 109, 109, 1);
+$mission-available: rgba(0, 105, 146, 1);
+$mission-progress: rgba(63, 195, 128, 1);
 $mission-partial: rgba(88, 34, 102, 1);
 $mission-success: rgba(34, 102, 98, 1);
 $mission-failure: rgba(176, 45, 45, 1);
@@ -466,6 +468,14 @@ section .section-header {
     background-color: $mission-start;
   }
 
+  .available {
+    background-color: $mission-available;
+  }
+
+  .in-progress {
+    background-color: $mission-progress;
+  }
+  
   .partial-success {
     background-color: $mission-partial;
   }
