@@ -88,13 +88,18 @@ export default {
   data() {
     return {
       "mission_slug": "002b",
-      "current_md": "002b",
+      "current_md": "003-2",
       "events": "",
       "missions": [
         {
+          "slug": "004",
+          "name": "Crucible Exclusion Zone Reconnaissance",
+          "status": "available"
+        },
+        {
           "slug": "003-2",
           "name": "Emergency Repairs",
-          "status": "start"
+          "status": "in-progress"
         },
         {
           "slug": "003-1",
