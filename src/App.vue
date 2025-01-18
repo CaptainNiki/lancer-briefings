@@ -166,7 +166,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///LCI-DEPLOYMENT///78j22874-6564-asud-hasu-12093712kadjh",
           "corpro": "HORUS",
           "frame": "Goblin",
-          "mech": "GORBO"
+          "mech": "GORBY"
         },
       ],
       "header": {
