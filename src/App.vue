@@ -87,19 +87,24 @@ export default {
   },
   data() {
     return {
-      "mission_slug": "003-2",
-      "current_md": "003-2",
+      "mission_slug": "005",
+      "current_md": "005",
       "events": "",
       "missions": [
         {
+          "slug": "005",
+          "name": "A Pirate's Life for Me",
+          "status": "available"
+        },
+        {
           "slug": "004",
           "name": "CEZ Reconnaissance",
-          "status": "available"
+          "status": "success"
         },
         {
           "slug": "003-2",
           "name": "Emergency Repairs",
-          "status": "in-progress"
+          "status": "success"
         },
         {
           "slug": "003-1",
@@ -127,8 +132,8 @@ export default {
           "callsign": "Platoon",
           "alias": "Ellie Doyle",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///LCI-DEPLOYMENT///377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
+          "corpro": "IPS-N",
+          "frame": "Bligh",
           "mech": "FACTORY"
         },
         {
@@ -143,9 +148,9 @@ export default {
           "callsign": "Chips",
           "alias": "KF-7640",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///LCI-DEPLOYMENT///6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "SEGWAY"
+          "corpro": "HORUS",
+          "frame": "Lycan",
+          "mech": "TANTRUM"
         },
         {
           "callsign": "Winner",
@@ -155,9 +160,17 @@ export default {
           "frame": "Sagarmatha",
           "mech": "EXCELSIOR"
         },
+        {
+          "callsign": "I-DOL",
+          "alias": "Lia",
+          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///LCI-DEPLOYMENT///78j22874-6564-asud-hasu-12093712kadjh",
+          "corpro": "HORUS",
+          "frame": "Goblin",
+          "mech": "GORBO"
+        },
       ],
       "header": {
-        "planet": "ASTERIA-05",
+        "planet": "ASTERIA-03",
         "year": "503 CE",
         "system": "HESPERIAN SYSTEM",
         "gate": "-",
