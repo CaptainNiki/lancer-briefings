@@ -87,14 +87,24 @@ export default {
   },
   data() {
     return {
-      "mission_slug": "005",
-      "current_md": "005",
-      "events": "",
+      "mission_slug": "006-1",
+      "current_md": "006-1",
+      "events": "006",
       "missions": [
+         {
+          "slug": "006-2",
+          "name": "Winds of Dust",
+          "status": "available"
+        },
+        {
+          "slug": "005",
+          "name": "Oh Ye Little of Faith",
+          "status": "available"
+        },
         {
           "slug": "005",
           "name": "A Pirate's Life for Me",
-          "status": "available"
+          "status": "success"
         },
         {
           "slug": "004",
