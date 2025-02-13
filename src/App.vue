@@ -97,7 +97,7 @@ export default {
           "status": "available"
         },
         {
-          "slug": "005",
+          "slug": "006-1",
           "name": "Oh Ye Little of Faith",
           "status": "available"
         },
